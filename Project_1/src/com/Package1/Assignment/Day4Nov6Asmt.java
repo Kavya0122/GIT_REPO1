@@ -23,9 +23,9 @@ public class Day4Nov6Asmt {
 	void method4(int a , int b, int c, int d)   { System.out.println("Four Parameterised method");}
 	
 	public static void main (String args[])
-	{	System.out.println("Assignment 1 \n");
+	{	System.out.println("Assignment 1---------- \n");
 		Day4Nov6Asmt a1 = new Day4Nov6Asmt(1,2);
-		System.out.println("\nAssignment 2 \n");
+		System.out.println("\nAssignment 2---------- \n");
 		a1.method();
 	}
 

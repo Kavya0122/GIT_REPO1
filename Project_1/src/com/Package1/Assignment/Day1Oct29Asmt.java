@@ -11,7 +11,7 @@ public class Day1Oct29Asmt {
 	}
 	public void display2()
 	{
-		System.out.println("Automation is very easy");
+		System.out.println("Automation is very easy..");
 		
 	}
 
