@@ -31,10 +31,10 @@ public class Day2Oct30Asmt {
 			Day2Oct30Asmt arth_op = new Day2Oct30Asmt();
 			
 			float result1 = arth_op.div(arth_op.mul(arth_op.sub(arth_op.sum(arth_op.sum(10, 2), 2), 2), 2), 2);
-			System.out.println("ASSIGNMENT1 ---> Arthmetic operation result : " + result1 + "\n");
+			System.out.println("ASSIGNMENT1 ----> Arthmetic operation result : " + result1 + "\n");
 			
 			float result2 = arth_op.div(arth_op.sub(arth_op.sub(arth_op.sum(arth_op.mul(10, 2),2),2),2),2);
-			System.out.println("ASSIGNMENT2 ---> Arthmetic operation result : " + result2);
+			System.out.println("ASSIGNMENT2 ----> Arthmetic operation result : " + result2);
 			
 			
 		}

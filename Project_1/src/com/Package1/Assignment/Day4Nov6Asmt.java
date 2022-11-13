@@ -2,11 +2,11 @@ package com.Package1.Assignment;
 
 public class Day4Nov6Asmt {
 	
-	Day4Nov6Asmt() 	                    		{ this(1,2,3,4); System.out.println("Default Constructor");}
-	Day4Nov6Asmt(int a) 						{ this ();       System.out.println("Single Parameterised Constructor");}
-	Day4Nov6Asmt(int a , int b) 				{ this(1,2,3);   System.out.println("Two Parameterised Constructor");}
+	Day4Nov6Asmt()								{ this(1,2,3,4); System.out.println("Default Constructor");}
+	Day4Nov6Asmt(int a)							{ this ();       System.out.println("Single Parameterised Constructor");}
+	Day4Nov6Asmt(int a , int b)					{ this(1,2,3);   System.out.println("Two Parameterised Constructor");}
 	Day4Nov6Asmt(int a , int b, int c) 			{ this (1);      System.out.println("Three Parameterised Constructor");}
-	Day4Nov6Asmt(int a , int b, int c, int d) 	{                System.out.println("Four Parameterised Constructor");}
+	Day4Nov6Asmt(int a , int b, int c, int d)	{                System.out.println("Four Parameterised Constructor");}
 	
 	void method() 								
 	{   this.method3(1,2,3);
